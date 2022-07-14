@@ -1,15 +1,9 @@
-# JARwareZ
-## The JARwareZ Web
-### Landing Pages on GitHub Pages
+# JARwareZ Web
+
+:construction: Proyecto en construcción :construction:
 
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 
 [![Version](0.1)](0.1)
 
@@ -20,6 +14,10 @@ This is a landing page of JARwareZ we're team, tech savy, self-thaught and entre
 Just another Progresive Web App to take notes (online or offline)
 with an optional login and cloud sync
 
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+
 ### Functions
 - [ ] Light/Dark mode
 - [ ] Bar progress
@@ -27,3 +25,10 @@ with an optional login and cloud sync
 - [ ] Something like linktr.ee
 - [ ] Course plaform
 - [ ] New features, coming...
+
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
