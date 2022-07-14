@@ -3,6 +3,7 @@
 ### Landing Pages on GitHub Pages
 
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+* [Licencia](#licencia)
 
 ## Table of Contents
 1. [General Info](#general-info)
