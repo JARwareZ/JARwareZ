@@ -35,5 +35,5 @@ with an optional login and cloud sync
 
 ## Autores## Autores
 
-| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4)" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/LoboGuardian)
+| [<img src="[[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4)](https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4)" width=115><br><sub>LoboGuardian</sub>](https://github.com/LoboGuardian)
 | :---: | :---: | :---: |
