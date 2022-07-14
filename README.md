@@ -16,7 +16,10 @@ with an optional login and cloud sync
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: descripción de la funcionalidad
+- 1- `Funcionalidad 2`: descripción de la funcionalidad
+- 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad
+- 2- `Funcionalidad 3`: descripción de la funcionalidad 3
 
 ### Functions
 - [ ] Light/Dark mode
@@ -35,5 +38,4 @@ with an optional login and cloud sync
 
 ## Autores## Autores
 
-| [<img src="[[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4)](https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4)" width=115><br><sub>LoboGuardian</sub>](https://github.com/LoboGuardian)
-| :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4" width=115><br><sub>LoboGuardian</sub>](https://github.com/LoboGuardian)
