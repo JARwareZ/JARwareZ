@@ -2,7 +2,14 @@
 ## The JARwareZ Web
 ### Landing Pages on GitHub Pages
 
-GET /api/v1/version/0.1 HTTP/1.1
+  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
 
 [![Version](0.1)](0.1)
 
