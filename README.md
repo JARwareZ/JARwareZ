@@ -2,6 +2,8 @@
 ## The JARwareZ Web
 ### Landing Pages on GitHub Pages
 
+GET /api/v1/version/0.1 HTTP/1.1
+
 [![Version](0.1)](0.1)
 
 ### About
