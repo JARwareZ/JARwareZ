@@ -4,14 +4,10 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-[![Version](0.1)]
-
-### About
+### #General Info
 
 This is a landing page of JARwareZ we're team, tech savy, self-thaught and entrepreneur
 
@@ -33,6 +29,6 @@ with an optional login and cloud sync
 - [ ] Course plaform
 - [ ] New features, coming...
 
-## Autores## Autores
+## #collaboration
 
-[<img src="https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4" width=115><br><sub>LoboGuardian</sub>]  (https://github.com/LoboGuardian)
+| [<img src="https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4" width=115/><br><sub>LoboGuardian</sub>]  (https://github.com/LoboGuardian) |
