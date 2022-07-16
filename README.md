@@ -1,8 +1,7 @@
 # JARwareZ Web
 
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-  ![Badge version]([https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://img.shields.io/github/manifest-json/v/JARwareZ//JARwareZ?color=green&label=version&logo=JARwareZ&style=plastic))
-
+  ![Badge version]([https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green]
 
 [![Version](0.1)](0.1)
 
