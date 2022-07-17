@@ -4,6 +4,7 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
+2. [Functions](#Functions)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
@@ -14,21 +15,14 @@ This is a landing page of JARwareZ we're team, tech savy, self-thaught and entre
 Just another Progresive Web App to take notes (online or offline)
 with an optional login and cloud sync
 
-## :hammer:Funcionalidades del proyecto
+### :hammer:#Functions
+- [ ] `Light/Dark mode and adaptative`: For visibility, and adaptative web
+- [ ] `Bar progress`: In top bar
+- [ ] `Blogs`: Where people could write info
+- [ ] `Something like linktr.ee`: To redirect
+- [ ] `Course plaform`: Where we could show course
+- [ ] `New features, coming...`: Less is more
 
-- `Functionality 1`: descripción de la funcionalidad 1
-- `Functionality 2`: descripción de la funcionalidad 2
-- `Functionality 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
-- `Functionality 3`: descripción de la funcionalidad 3
+### #collaboration
 
-### Functions
-- [ ] Light/Dark mode
-- [ ] Bar progress
-- [ ] Blogs
-- [ ] Something like linktr.ee
-- [ ] Course plaform
-- [ ] New features, coming...
-
-## #collaboration
-
-| [<img src="https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4" width=115/><br><sub>LoboGuardian</sub>]  (https://github.com/LoboGuardian) |
+| [<img src="https://avatars.githubusercontent.com/u/30099451?s=400&u=7c80d9c31fdc6d01875238e134e65c13281fe3e6&v=4" width=115><br><sub>LoboGuardian</sub>]  (https://github.com/LoboGuardian) |
